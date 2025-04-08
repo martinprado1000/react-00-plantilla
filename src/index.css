@@ -1,0 +1,13 @@
+body {
+  background: #0a0a0a;
+  color: white;
+}
+
+.navbar {
+  font-family: 'Spicy Rice', cursive;
+  font-size: 1.2rem;
+}
+
+.activeLink {
+  color: blue;
+}
